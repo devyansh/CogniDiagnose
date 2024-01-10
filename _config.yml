@@ -115,4 +115,4 @@ tag_archive:
   path: /tags/
 
 header:
-  imgae: /assets/images/cover_image.jpg
+  image: /assets/images/cover_image.jpg
