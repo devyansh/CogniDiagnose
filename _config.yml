@@ -114,5 +114,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  header:
-    imgae: /assets/images/cover_image.jpg
+header:
+  imgae: /assets/images/cover_image.jpg
