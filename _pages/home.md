@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/cover_image.jpg
 excerpt: "Subjective evaluation of cognitive decline and dementia in 30 minutes"
 intro: 
-  - excerpt: 'Take our EEG headswet based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
+  - excerpt: 'Take our EEG headset based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
