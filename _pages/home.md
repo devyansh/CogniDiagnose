@@ -4,13 +4,13 @@ layout: splash
 permalink: /
 date: 2024-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/cover_image.jpg
+  overlay_image: /assets/cover_image.jpg
 excerpt: "Subjective evaluation of cognitive decline and dementia in 30 minutes"
 intro: 
   - excerpt: 'Take our EEG headset based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
 
 intro2: 
-  - image_path: /assets/images/eegcap.jpg
+  - image_path: /assets/eegcap.jpg
     alt: "20 channel EEG cap"
     title: "20 channel EEG cap"
     excerpt: 'Data acquisation using our 20 channel EEG cap combined with our propriety AI enabled software to automatically generate report within 5 minutes of completing the test enbales us to provide diagnostic service at a scale.'
@@ -48,7 +48,7 @@ feature_row3:
     # btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/eegcap.jpg
+  - image_path: /assets/eegcap.jpg
     alt: "20 channel EEG cap"
     title: "20 channel EEG cap"
     excerpt: 'Data acquisation using our 20 channel EEG cap combined with our propriety AI enabled software to automatically generate report within 5 minutes of completing the test enbales us to provide diagnostic service at a scale.'

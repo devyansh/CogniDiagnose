@@ -32,7 +32,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 header:
-  image_path: /assets/images/cover_image.jpg
+  image_path: /assets/cover_image.jpg
 
 
 include:
@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     # - label: "Website"
