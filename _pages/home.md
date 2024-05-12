@@ -20,7 +20,7 @@ feature_row:
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
-    btn_label: "Read More"
+    # btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
@@ -31,7 +31,7 @@ feature_row2:
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
-    btn_label: "Read More"
+    # btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -39,7 +39,7 @@ feature_row3:
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
-    btn_label: "Read More"
+    # btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/eegcap.jpg
@@ -47,7 +47,7 @@ feature_row4:
     title: "20 channel EEG cap"
     excerpt: 'Data acquisation using our 20 channel EEG cap combined with our propriety AI enabled software to automatically generate report within 5 minutes of completing the test enbales us to provide diagnostic service at a scale.'
     url: "#test-link"
-    btn_label: "Read More"
+    # btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
