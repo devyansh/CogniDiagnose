@@ -32,7 +32,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 header:
-  image_path: /assets/cover_image.jpg
+  image_path: /assets/cover.jpg
 
 
 include:
