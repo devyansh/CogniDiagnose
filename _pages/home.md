@@ -48,7 +48,7 @@ feature_row4:
     excerpt: 'Data acquisation using our 20 channel EEG cap combined with our propriety AI enabled software to automatically generate report within 5 minutes of completing the test enbales us to provide diagnostic service at a scale.'
     url: "#test-link"
     # btn_label: "Read More"
-    btn_class: "btn--primary"
+    # btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
