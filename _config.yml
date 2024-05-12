@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CogniDiagnose
+  image_path: /assets/eegcap.jpg
 email: gupta.devyansh99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Subjective evaluation of cognitive decline and dementia in 30 minutes
