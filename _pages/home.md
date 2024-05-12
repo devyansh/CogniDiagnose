@@ -10,6 +10,7 @@ intro:
   - excerpt: 'Take our EEG headset based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
 
 intro2: 
+  - image_path: /assets/images/eegcap.jpg
   - excerpt: 'Take 2 our EEG headset based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
 
 feature_row:
