@@ -9,6 +9,9 @@ excerpt: "Subjective evaluation of cognitive decline and dementia in 30 minutes"
 intro: 
   - excerpt: 'Take our EEG headset based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
 
+intro2: 
+  - excerpt: 'Take 2 our EEG headset based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
+
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -46,12 +49,14 @@ feature_row4:
     alt: "20 channel EEG cap"
     title: "20 channel EEG cap"
     excerpt: 'Data acquisation using our 20 channel EEG cap combined with our propriety AI enabled software to automatically generate report within 5 minutes of completing the test enbales us to provide diagnostic service at a scale.'
-    url: "#test-link"
+    # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="intro2" type="center" %}
 
 <!-- {% include feature_row %} -->
 
