@@ -11,7 +11,9 @@ intro:
 
 intro2: 
   - image_path: /assets/images/eegcap.jpg
-  - excerpt: 'Take 2 our EEG headset based diagnostic test to track your brain health and Event Related Potentials (ERP) like P300, N100, N400 and other biomarkers.'
+    alt: "20 channel EEG cap"
+    title: "20 channel EEG cap"
+    excerpt: 'Data acquisation using our 20 channel EEG cap combined with our propriety AI enabled software to automatically generate report within 5 minutes of completing the test enbales us to provide diagnostic service at a scale.'
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -65,7 +67,7 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %} -->
 
-{% include feature_row id="feature_row4" type="center" %}
+<!-- {% include feature_row id="feature_row4" type="center" %} -->
 
 
 
