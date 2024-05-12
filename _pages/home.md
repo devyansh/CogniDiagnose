@@ -2,7 +2,7 @@
 title: "EEG Diagnostics"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2024-03-23T11:48:41-04:00
 header:
   overlay_image: /assets/images/cover_image.jpg
 excerpt: "Subjective evaluation of cognitive decline and dementia in 30 minutes"
